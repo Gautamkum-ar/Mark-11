@@ -83,5 +83,15 @@ body {
 @media only screen and (max-width: 900px) {
  .container{
 width: 90%;
+   height: 60vh;
   }
+  .container label{
+    font-size: 1.1em;
+width : 80%;
+  }
+  .check{
+    width: 20%
+  }
+  .heading{
+    font-size: 1.2em;
 }
